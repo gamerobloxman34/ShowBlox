@@ -1,1 +1,2 @@
 # ShowBlox
+local player = die
